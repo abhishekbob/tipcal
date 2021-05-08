@@ -1,0 +1,61 @@
+.input1 {
+  padding: 20px;
+  text-align: center;
+  border-bottom: double;
+}
+.input1 label {
+  font-weight: bold;
+  display: block;
+
+  font-size: larger;
+}
+.input1 input {
+  width: 500px;
+  text-align: center;
+  font-size: 15px;
+  margin-top: 10px;
+}
+input:focus {
+  outline: none;
+}
+select:focus {
+  outline: none;
+}
+option {
+  text-align: center;
+}
+#addSpace {
+  margin-top: 30px;
+  padding-bottom: 15px;
+  border-bottom: double;
+}
+.input2 {
+  margin-left: 150px;
+
+  display: inline;
+}
+.input3 {
+  margin-left: 200px;
+}
+.input3,
+.input2 label {
+  display: inline;
+  font-weight: bold;
+  font-size: larger;
+}
+.input3 input,
+.input2 select {
+  margin-left: 20px;
+}
+.input3 input {
+  width: 300px;
+}
+.input3 button {
+  margin-left: 10px;
+  font-weight: 600;
+  background-color: #3f3160;
+  color: azure;
+}
+.input3 button:focus {
+  outline: none;
+}

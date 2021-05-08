@@ -1,0 +1,13 @@
+.header {
+  text-align: center;
+  margin: 20px;
+  border: rgb(243, 240, 240) solid;
+  padding: 15px;
+  font-size: 30px;
+  font-weight: 700;
+  background-color: #3f3160;
+  color: antiquewhite;
+}
+body {
+  background-color: #9266ff;
+}
