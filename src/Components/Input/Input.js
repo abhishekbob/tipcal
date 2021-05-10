@@ -30,14 +30,9 @@ export class Input extends Component {
     
     addCustomerName  (e){
         this.setState({CustomerName:e.target.value})
-        // this.setState({customerName:[...this.state.customerName,this.state.newCustomer],newCustomer:''})
-    }
-    // add = ()=>{
-    //     this.setState({toDisplay:[...this.state.toDisplay,this.state.NewTip],NewTip:''})
-    // }
-    
-        //  this.setState({toDisplay:[...this.state.toDisplay,this.state.NewTip],NewTip:''})
         
+    }
+    
     
     handleClick=()=>{
         let BillAmount= Number(this.state.BillAmount);
@@ -68,11 +63,6 @@ export class Input extends Component {
     }
     render() {
        
-        // console.log(this.state.BillAmount)
-        // console.log(this.state.customerName)
-        // console.log(this.state.Service)
-        // console.log(this.state.newCustomer)
-        // console.log(this.state.FinalTip)
         console.log(this.state.CustomerNameAndTip)
 
         

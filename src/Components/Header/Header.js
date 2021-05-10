@@ -5,7 +5,7 @@ export class Header extends Component {
         return (
             <header >
                     <div className='header' >
-                        Tip Calculator
+                         Tip Calculator
                     </div>
 
             </header>

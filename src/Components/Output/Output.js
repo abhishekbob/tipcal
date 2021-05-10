@@ -31,12 +31,8 @@ export class Output extends Component {
 
     }
     render() {
-        // console.log(this.props.display)
-        // console.log(this.state.totalBill)
+       
         console.log(this.state.totalCustomers)
-        
-
-        
         return (
             <div className='Output'>
                 <div className='output1' aria-haspopup='true' aria-expanded='false'
