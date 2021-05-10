@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tipcal/static/css/main.24032ce5.chunk.css",
+    "main.js": "/tipcal/static/js/main.7cb55983.chunk.js",
+    "main.js.map": "/tipcal/static/js/main.7cb55983.chunk.js.map",
+    "runtime-main.js": "/tipcal/static/js/runtime-main.e533bce8.js",
+    "runtime-main.js.map": "/tipcal/static/js/runtime-main.e533bce8.js.map",
+    "static/js/2.9ff80e4a.chunk.js": "/tipcal/static/js/2.9ff80e4a.chunk.js",
+    "static/js/2.9ff80e4a.chunk.js.map": "/tipcal/static/js/2.9ff80e4a.chunk.js.map",
+    "static/js/3.518460ce.chunk.js": "/tipcal/static/js/3.518460ce.chunk.js",
+    "static/js/3.518460ce.chunk.js.map": "/tipcal/static/js/3.518460ce.chunk.js.map",
+    "index.html": "/tipcal/index.html",
+    "static/css/main.24032ce5.chunk.css.map": "/tipcal/static/css/main.24032ce5.chunk.css.map",
+    "static/js/2.9ff80e4a.chunk.js.LICENSE.txt": "/tipcal/static/js/2.9ff80e4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e533bce8.js",
+    "static/js/2.9ff80e4a.chunk.js",
+    "static/css/main.24032ce5.chunk.css",
+    "static/js/main.7cb55983.chunk.js"
+  ]
+}
