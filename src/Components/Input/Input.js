@@ -60,6 +60,9 @@ export class Input extends Component {
         })
         this.setState({CustomerNameAndTip:[...this.state.CustomerNameAndTip,
             [this.state.CustomerName,BillAmount*(servicePercentage/100)],],})
+        this.setState({BillAmount:''})
+        this.setState({Service:'Excellent'})
+        this.setState({CustomerName:''})
     }
     render() {
        
